@@ -52,10 +52,4 @@ https://github.com/addyosmani/visibly.js/ - Page Visibility API shim
 
 ## Author
 
-(C) 2020 Abraham Tugalov.
-http://howdyho.net
-
-## Contributors
-- Aidar Ayupov <https://github.com/preposition17> & Vildan Safin <https://github.com/Enigma228322> for inspiration about 3D models
-- Rifat Fazlutdinov <https://github.com/Rifat-Fazlutdinov> for telegram bugreport bot
-- Arnur Bekbolov <https://vk.com/kurasaiiiii> for skins ideas
+(C) 2024 Roman Li
